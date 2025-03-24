@@ -1,0 +1,174 @@
+.inbox{
+    background-color: white;
+    margin: 10px 0px 10px 10px;
+    text-align: left;
+    text-transform:uppercase;
+    
+}
+.sec1{
+    
+    background-color:rgb(52, 166, 237);
+    height: auto;
+    padding:  70px ;
+   
+    
+}
+.inbox1{
+    text-align: center;
+    padding: 0px 50px;
+    padding-left: 40px;
+    
+}
+.inbox2{
+    padding-top: 30px;
+    color: white;
+   
+}
+h1{
+    text-transform: uppercase;
+}
+h5{
+    text-transform: lowercase;
+}
+.a1{
+    
+   background-color: white;
+    color: cornflowerblue;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px 20px;
+
+}
+
+.inbox3{
+   
+    text-align: center;
+    margin-top: 20px;
+    padding-bottom: 50px;
+}
+.b1_see{
+    font-weight: bold;
+    color: rgb(35, 99, 197);
+    padding: 10px 50px;
+    margin: 20px;
+    text-decoration:solid;
+    background-color: white;
+    border: 2px solid rgb(49, 111, 211);
+    
+   
+
+}
+.b1_see:hover{
+    background-color: aquamarine;
+    color: black;
+}   
+  
+
+
+.sec3{
+    background-color:rgb(17, 162, 246);
+    padding:  10px ;
+    
+}
+.h6{
+   text-transform: uppercase;
+   
+}
+.inbox4{
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+hr{
+    color: white;
+}
+.sec4{
+    background-color: black;
+    text-align: center;
+    color: white;
+   padding: 20px;
+}
+.a3{
+    color: cornflowerblue;
+    background-color: white;
+    font-weight: bold;
+    padding: 10px 30px;
+    margin-bottom: 50px;
+    
+}
+.sec5{
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: auto;
+    padding-bottom: 20px;
+    
+}
+h2{
+    font-style: italic;
+}
+.b2{
+    color: cornflowerblue;
+    background-color: white;
+    font-weight: bold;
+    padding:  10px  ;
+    text-decoration: none;
+    margin: 10px;
+    
+
+
+}
+.d1{
+    height: 2px;
+    background-color: white;
+}
+.d3{
+    height: 2px;
+    width: 50%;
+    margin: auto;
+    background-color:white;
+
+}
+.d2{
+    background-color:gray;
+    height: 2px;
+    width: 10%;
+    margin: auto;
+}
+.d4{
+    background-color:gray;
+    height: 2px;
+    width: 10%;
+    margin: auto;
+}
+
+.sec6{
+    text-align: center;
+
+}
+.sec7{
+    background-color: white;
+    margin: 50px 0;
+
+
+
+}
+.inbox7{
+    padding: 10px 20px;
+    text-align: center;
+}
+.inbox8{
+   height: 300px;
+
+
+}
+.inbox9{
+    height: 300px;
+}
+.margin-y{
+    margin: 0 100px;
+}
+
+
+
+
